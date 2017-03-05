@@ -7,7 +7,7 @@ baseurl: "/grayscale-theme"
 
 # Color settings
 color:
-  primary-dark: '#000000'
+  primary-dark: '#111111'
   links: '#219ab3'
 
 # Footer settings
